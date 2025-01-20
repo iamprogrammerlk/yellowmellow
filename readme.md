@@ -4,6 +4,8 @@
 
 ### Yellow Mellow is a beautiful, minimalist yellow-colored theme for Google Chrome and other Chromium-based web browsers.
 
+![marquee_promo_tile_1400x560](/resource/promo_tile/marquee_promo_tile_1400x560.png)
+
 > [!TIP]
 >
 > # :star: Star This Repository
@@ -13,6 +15,10 @@
 ## Install
 
 - [Google Chrome Web Store](https://chromewebstore.google.com/detail/odbkaenpahllodglapdaobbbdgkieonk)
+
+## Screenshots
+
+![screenshot_01_1280x800_active](/resource/screenshot/screenshot_01_1280x800_active.png) ![screenshot_02_1280x800_inactive](/resource/screenshot/screenshot_02_1280x800_inactive.png) ![screenshot_03_1280x800_incognito](/resource/screenshot/screenshot_03_1280x800_incognito.png) ![screenshot_04_1280x800_appearance](/resource/screenshot/screenshot_04_1280x800_appearance.png) ![screenshot_05_1280x800_search](/resource/screenshot/screenshot_05_1280x800_search.png)
 
 ## List of Chromium-based Web Browsers
 
