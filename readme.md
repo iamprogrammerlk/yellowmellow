@@ -10,7 +10,7 @@
 >
 > # :star: Star This Repository
 >
-> ### If you enjoy this theme and my work, please consider supporting me through [sponsorships](https://github.com/sponsors/iamprogrammerlk) or giving a star to this repository.
+> ### If you enjoy this theme and my work, please consider supporting me giving a star to this repository.
 
 ## Install
 
