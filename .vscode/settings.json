@@ -10,7 +10,8 @@
     "../blob/main/contributing.md",
     "../blob/main/security.md",
     "../blob/main/contributor_license_agreement.md",
-    "../blob/main/license.md"
+    "../blob/main/license.md",
+    "/../../releases"
   ],
   "cSpell.words": [
     "buildlog",

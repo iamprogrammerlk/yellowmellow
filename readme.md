@@ -1,20 +1,34 @@
 <a name="readme-top"></a>
 
-# Yellow Mellow - Theme for Chromium-based Web Browser
+![marquee_promo_tile_1400x560](/resource/promo_tile/marquee_promo_tile_1400x560.png)
+
+# Yellow Mellow - Theme for Chromium-based Web Browsers
 
 ### Yellow Mellow is a beautiful, minimalist yellow-colored theme for Google Chrome and other Chromium-based web browsers.
-
-![marquee_promo_tile_1400x560](/resource/promo_tile/marquee_promo_tile_1400x560.png)
 
 > [!TIP]
 >
 > # :star: Star This Repository
 >
-> ### Give a star to this repository if you find it useful.
+> ### If you enjoy this theme and my work, please consider supporting me through [sponsorships](https://github.com/sponsors/iamprogrammerlk) or giving a star to this repository.
 
 ## Install
 
+### Get it from web store(s)
+
 - [Google Chrome Web Store](https://chromewebstore.google.com/detail/odbkaenpahllodglapdaobbbdgkieonk)
+
+### Install it manually
+
+First, download the latest released ZIP file from the [releases section](/../../releases) and save it to your computer. Then, unzip the file and follow the instructions below, which may vary slightly depending on your browser:
+
+- To access the Extension Management page, visit the following URL: [chrome://extensions](chrome://extensions). You can also open the Extension Management page by clicking on your browser's menu and selecting `Extensions -> Manage Extensions`.
+
+- To enable "Developer mode," select the option located at the top right corner of the page.
+
+- Click the `Load unpacked` button, then find the directory where you extracted the release and select it.
+
+- The theme should now be active in your browser. To remove the theme, access your browser's theme or appearance settings and select a different one.
 
 ## Screenshots
 
