@@ -4,13 +4,13 @@
 
 # Yellow Mellow - _Theme for Chromium-based Web Browsers_
 
-### Yellow Mellow is a beautiful, minimalist yellow-colored theme for Google Chrome and other Chromium-based web browsers.
+Yellow Mellow is a beautiful, minimalist yellow-colored theme for Google Chrome and other Chromium-based web browsers.
 
 > [!TIP]
 >
 > # ⭐ Star This Repository
 >
-> ### If you enjoy this theme and my work, please consider supporting me giving a ⭐ star ⭐ to this repository.
+> If you enjoy this theme and my work, please consider supporting me giving a ⭐ star ⭐ to this repository.
 
 ## Install
 
@@ -20,15 +20,19 @@
 
 ### Install it manually
 
-First, download the latest released ZIP file from the [releases section](/../../releases) and save it to your computer. Then, unzip the file and follow the instructions below, which may vary slightly depending on your browser:
+First, download the latest released ZIP file from the [releases section](/../../releases) and save it to your computer.
+Then, unzip the file and follow the instructions below, which may vary slightly depending on your browser:
 
-- To access the Extension Management page, visit the following URL: [chrome://extensions](chrome://extensions). You can also open the Extension Management page by clicking on your browser's menu and selecting `Extensions -> Manage Extensions`.
+- To access the Extension Management page, visit the following URL: [chrome://extensions](chrome://extensions).
+  You can also open the Extension Management page by clicking on your browser's menu
+  and selecting `Extensions -> Manage Extensions`.
 
 - To enable "Developer mode," select the option located at the top right corner of the page.
 
 - Click the `Load unpacked` button, then find the directory where you extracted the release and select it.
 
-- The theme should now be active in your browser. To remove the theme, access your browser's theme or appearance settings and select a different one.
+- The theme should now be active in your browser. To remove the theme,
+  access your browser's theme or appearance settings and select a different one.
 
 ## Screenshots
 
@@ -65,7 +69,7 @@ First, download the latest released ZIP file from the [releases section](/../../
 
 > [!NOTE]
 >
-> ### This theme uses Manifest V3 to ensure compatibility with the latest Chromium extension standards.
+> This theme uses Manifest V3 to ensure compatibility with the latest Chromium extension standards.
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -76,7 +80,10 @@ First, download the latest released ZIP file from the [releases section](/../../
 
 - I am Programmer [@iamprogrammerlk](https://github.com/iamprogrammerlk)
 
-  [iamprogrammer.lk](https://iamprogrammer.lk) 🔸 [contact@iamprogrammer.lk](mailto:contact@iamprogrammer.lk) 🔸 [x.com/iamprogrammerlk](https://x.com/iamprogrammerlk) 🔸 [youtube.com/@iamprogrammerlk](https://youtube.com/@iamprogrammerlk)
+  [iamprogrammer.lk](https://iamprogrammer.lk)
+  🔸 [contact@iamprogrammer.lk](mailto:contact@iamprogrammer.lk)
+  🔸 [x.com/iamprogrammerlk](https://x.com/iamprogrammerlk)
+  🔸 [youtube.com/@iamprogrammerlk](https://youtube.com/@iamprogrammerlk)
 
 - [Contributors](/../../graphs/contributors)
 
@@ -87,7 +94,8 @@ First, download the latest released ZIP file from the [releases section](/../../
 
 # ✨ Get Involved
 
-Get in touch with the project developers and the community through our [GitHub Discussions](/../../discussions) forum. View [contributing.md](/contributing.md) for information.
+Get in touch with the project developers and the community through our [GitHub Discussions](/../../discussions) forum.
+View [contributing.md](/contributing.md) for information.
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -105,11 +113,15 @@ Bug reports and feature requests can be submitted on the [Github Issues](/../../
 
 # 👍 Code of Conduct
 
-This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Code of Conduct](/code_of_conduct.md), [Security Policy](/security.md), and be bound by the terms of the [Contributor License Agreement](/contributor_license_agreement.md).
+This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to
+the [Code of Conduct](/code_of_conduct.md), [Security Policy](/security.md), and be bound by the terms of
+the [Contributor License Agreement](/contributor_license_agreement.md).
 
 > [!IMPORTANT]
 >
-> ### This project is not a platform for discussing politics, social issues, race, religion, gender, or sexual orientation. Please keep those discussions elsewhere.
+> This project is not a platform for discussing politics, social issues, race, religion, gender, or sexual orientation.
+>
+> Please keep those discussions elsewhere.
 
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -118,7 +130,9 @@ This project is intended to be a safe, welcoming space for collaboration, and co
 
 # ⚖️ License
 
-### This work is distributed under the [MIT License](https://choosealicense.com/licenses/mit/) License. See [license](/license.md) for more information.
+### This work is distributed under the [MIT License](https://choosealicense.com/licenses/mit/) License.
+
+See [license](/license.md) for more information.
 
 ### Permissions
 
